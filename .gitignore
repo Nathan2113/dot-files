@@ -12,6 +12,10 @@
 !fastfetch/
 !bashrc
 !pkglist.txt
+!vesktop/
+vesktop/*
+!vesktop/themes/
+!vesktop/settings/
 
 # skip spicetify's large/machine-specific folders
 spicetify/Backup/
