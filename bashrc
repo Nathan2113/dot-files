@@ -10,3 +10,4 @@ alias grep='grep --color=auto'
 alias mysql='/opt/lampp/bin/mysql'
 PS1='[\u@\h \W]\$ '
 export PATH="$HOME/.local/bin:$PATH"
+export LS_COLORS="$LS_COLORS:di=1;38;2;196;167;231"
