@@ -1,0 +1,18 @@
+# ignore everything in ~/.config by default
+/*
+
+# ...except these
+!.gitignore
+!hypr/
+!kitty/
+!nvim/
+!noctalia/
+!fcitx5/
+!spicetify/
+!fastfetch/
+!bashrc
+!pkglist.txt
+
+# skip spicetify's large/machine-specific folders
+spicetify/Backup/
+spicetify/Extracted/

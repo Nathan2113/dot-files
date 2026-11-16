@@ -65,7 +65,8 @@ local menu        = "noctalia msg panel-toggle launcher"
 
 hl.env("XCURSOR_SIZE", "24")
 hl.env("HYPRCURSOR_SIZE", "24")
-
+hl.env("XCURSOR_THEME", "rose-pine-hyprcursor")
+hl.env("XCURSOR_SIZE", "24")
 
 -----------------------
 ----- PERMISSIONS -----
