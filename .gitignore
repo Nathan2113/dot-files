@@ -16,6 +16,8 @@
 vesktop/*
 !vesktop/themes/
 !vesktop/settings/
+!gtk-3.0/
+!gtk-4.0/
 
 # skip spicetify's large/machine-specific folders
 spicetify/Backup/
